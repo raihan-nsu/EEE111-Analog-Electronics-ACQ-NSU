@@ -1,0 +1,11 @@
+*.temp
+*desktop.ini
+*.desktop.ini
+*.Desktop.ini
+temp/
+.tmp.driveupload/
+.tmp.drivedownload/
+.tmp.driveupload
+.tmp.drivedownload
+students-1.csv
+students-1.xlsx
